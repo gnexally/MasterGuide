@@ -1,2 +1,2 @@
-# MasterGuide
-Master list of curated wide-ranged subjects
+# Master Guide
+Master list of curated wide-ranged topics
