@@ -1,7 +1,7 @@
 # Master Guide
 Master list of curated wide-ranged topics
 
-##Contents
+## Contents
 
 - [Computer Science](#computer-science)
 - [Gaming](#gaming)
