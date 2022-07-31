@@ -24,6 +24,7 @@ Master list of curated wide-ranged topics
 ## Miscellaneous
 
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
+- [VSCode Shortcuts](https://www.notion.so/VSCode-Shortcuts-2884e622602d41a9b5908eaa9f5a99e5) - Shortcuts to use when using VS Code editor
 
 ## Powershell
 
