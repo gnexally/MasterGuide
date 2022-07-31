@@ -15,6 +15,10 @@ Master list of curated wide-ranged topics
 
 - [Open Source Games](https://github.com/leereilly/games#readme)
 
+## Interview
+
+- [Interview questions](https://github.com/odino/interviews) - Help with certain areas within IT
+
 ## Miscellaneous
 
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
