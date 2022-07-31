@@ -5,7 +5,9 @@ Master list of curated wide-ranged topics
 
 - [Computer Science](#computer-science)
 - [Gaming](#gaming)
+- [Interview](interview)
 - [Miscellaneous](#miscellaneous)
+- [Powershell](powershell)
 
 ## Computer Science
 
