@@ -22,3 +22,7 @@ Master list of curated wide-ranged topics
 ## Miscellaneous
 
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
+
+## Powershell
+
+- [Powershell useful scripts](https://github.com/lazywinadmin/PowerShell)
